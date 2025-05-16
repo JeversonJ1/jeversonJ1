@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jevreson brito dos santos 👋
 
-<!--
-**JeversonJ1/jeversonJ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## sobre mim 
+**atualmente tenho 23 anos e pretendo trabalhar na area de T.I
 
-Here are some ideas to get you started:
+###FORMAÇÃO ACADEMICA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Curso Tecnico Senac São Miguel Paulista
+*curso imformatica Basica
+*curso de programação de games 2D e 3D
+
+*Passatempos*
+
+*jogar video game nas horas vagas
+*assistir filmes
+

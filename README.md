@@ -3,7 +3,7 @@
  ## Sobre mim 
 **Atualmente tenho 23 anos e pretendo trabalhar na area de T.I**
 
-*FORMAÇÃO ACADEMICA*
+ ## FORMAÇÃO ACADEMICA
 
 * Curso Tecnico Senac São Miguel Paulista
 * curso imformatica Basica

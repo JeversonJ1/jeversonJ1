@@ -11,6 +11,6 @@
 
 ### Passatempos
 
-*jogar video game nas horas vagas
-*ssistir filmes
+* jogar video game nas horas vagas
+* ssistir filmes
 

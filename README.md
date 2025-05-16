@@ -9,8 +9,8 @@
 *curso imformatica Basica
 *curso de programação de games 2D e 3D
 
-*Passatempos*
+### Passatempos
 
-*jogar video game nas horas vagas*
-*assistir filmes*
+*jogar video game nas horas vagas
+*ssistir filmes
 

@@ -5,9 +5,9 @@
 
 *FORMAÇÃO ACADEMICA*
 
-*Curso Tecnico Senac São Miguel Paulista
-*curso imformatica Basica
-*curso de programação de games 2D e 3D
+* Curso Tecnico Senac São Miguel Paulista
+* curso imformatica Basica
+* curso de programação de games 2D e 3D
 
 ### Passatempos
 

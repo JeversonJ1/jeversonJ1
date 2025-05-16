@@ -1,7 +1,7 @@
 # Jevreson brito dos santos 👋
 
  ## sobre mim 
-**atualmente tenho 23 anos e pretendo trabalhar na area de T.I
+** Atualmente tenho 23 anos e pretendo trabalhar na area de T.I
 
 *FORMAÇÃO ACADEMICA*
 

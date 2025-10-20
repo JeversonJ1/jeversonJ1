@@ -1,4 +1,4 @@
-# Jevreson brito dos santos 👋
+# Jeverson brito dos santos 👋
 
  ## Sobre mim 
 **Atualmente tenho 23 anos e pretendo trabalhar na area de T.I**
@@ -12,5 +12,5 @@
 ### Passatempos
 
 * jogar video game nas horas vagas
-* ssistir filmes
+* asistir filmes
 
